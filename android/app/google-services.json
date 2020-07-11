@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "972472059975",
+    "firebase_url": "https://flash-chat-b54dc.firebaseio.com",
+    "project_id": "flash-chat-b54dc",
+    "storage_bucket": "flash-chat-b54dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972472059975:android:13a76d73c1d36e050c8962",
+        "android_client_info": {
+          "package_name": "co.owen_giri.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972472059975-rjkh5ol2q1lk4j9d910s0ooienrh1ko3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFMHr-v8ty8mGmLleJognrPguny5oydRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972472059975-rjkh5ol2q1lk4j9d910s0ooienrh1ko3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
